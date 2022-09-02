@@ -1,0 +1,98 @@
+body,
+main {
+  height: 100vh;
+  font-family: "Kumbh San", sans-serif !important;
+  font-size: 14px !important;
+}
+body {
+  background-color: hsl(185, 75%, 39%);
+  z-index: 0 !important;
+  position: relative;
+}
+p,
+div,
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin-bottom: 0 !important;
+  font-weight: 400 !important;
+  text-align: center !important;
+}
+p {
+  letter-spacing: 2px;
+}
+p,
+h5 {
+  color: hsl(0, 0%, 59%) !important;
+}
+
+main > div {
+  border-radius: 1.3rem;
+}
+
+.profile_card {
+  position: relative;
+  z-index: 1;
+}
+
+.bg_pattern_top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50%;
+  height: 50%;
+  background-image: url("./images/bg-pattern-bottom.svg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  transform: rotate(180deg);
+  z-index: 0;
+}
+
+.bg_pattern_bottom {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  height: 50%;
+  background-image: url("./images/bg-pattern-bottom.svg");
+  z-index: 0;
+}
+
+.image_section {
+  border-top-left-radius: 1.3rem;
+  border-top-right-radius: 1.3rem;
+  background-image: url("./images/bg-pattern-card.svg");
+  background-repeat: no-repeat;
+  height: 14rem !important;
+  background-size: 100% 70%;
+}
+
+.image_div {
+  background-color: white;
+  padding: 0.5rem;
+  border-radius: 50%;
+}
+
+.image_icon {
+  border-radius: 50%;
+  background-color: white;
+}
+
+.line {
+  border: 0.01px solid hsl(0, 0%, 59%);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-size: 18px !important;
+  font-weight: 700 !important;
+}
+
+.profile_card {
+  background-color: white;
+}
