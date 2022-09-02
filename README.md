@@ -1,6 +1,6 @@
 # Frontend Mentor - Profile card component solution
 
-This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,11 +29,10 @@ Users should be able to:
 <img src="./images/website_tablet.png" width="450">
 <img src="./images/website_mobile.png" width="300">
 
-
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/ivabby/NFT-Component)
-- Live Site URL: [Live Site URL here](https://ivabby.github.io/NFT-Component/)
+- Solution URL: [Solution URL](https://github.com/ivabby/Profile-Card-Component)
+- Live Site URL: [Live Site URL here](https://ivabby.github.io/Profile-Card-Component/)
 
 ## My process
 
@@ -58,7 +57,6 @@ In this challange I learned how to implement image on top of another image using
 - Frontend Mentor - [@ivabby](https://www.frontendmentor.io/profile/ivabby)
 - Twitter - [@iamvabby](https://twitter.com/iamvabbyy)
 
-
 ## Acknowledgments
 
-I would like to thank the front-end mentor community along with that W3schools. 
+I would like to thank the front-end mentor community along with that W3schools.
